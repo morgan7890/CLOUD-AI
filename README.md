@@ -33,7 +33,7 @@ Unlock daily earnings by just using your phone. Join this legit platform trusted
 Buy your customized WhatsApp bot at an affordable price. Packed with premium features!
 
 <p align="center">
-  <a href="https://developer-bera.vercel.app" target="_blank">
+  <a href="https://developer-OC JUDE.vercel.app" target="_blank">
     <img alt="Buy Bot" src="https://img.shields.io/badge/GET YOUR BOT-⚡ CLICK HERE ⚡-FFD700?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black"/>
   </a>
 </p>
